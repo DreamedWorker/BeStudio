@@ -1,0 +1,12 @@
+<resources>
+    <!--  Generic strings  -->
+    <string name="app_name">BeStudio</string>
+    <string name="app_cancel">Cancel</string>
+    <string name="app_confirm">Confirm</string>
+    <string name="app_never_show">Never show again</string>
+    <!--  Error Reporter Activity  -->
+    <string name="era_title">Error Reporter</string>
+    <string name="era_dialog_title">What is it?</string>
+    <string name="era_dialog_msg">When the application is running, there is a fatal error that cannot be solved by us silently, prompts to guide you to solve, or fatal, the program will terminate the operation and prompt you the log of these errors.</string>
+    <string name="era_label_logCopied">Copied! Send to developers for helps.</string>
+</resources>

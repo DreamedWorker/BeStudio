@@ -1,0 +1,12 @@
+<resources>
+    <!--  Generic strings  -->
+    <string name="app_name">基岩工坊</string>
+    <string name="app_cancel">取消</string>
+    <string name="app_confirm">确认</string>
+    <string name="app_never_show">不再显示</string>
+    <!--  Error Reporter Activity  -->
+    <string name="era_title">错误报告</string>
+    <string name="era_dialog_title">我为什么会看到？</string>
+    <string name="era_dialog_msg">当应用在运行时遇到无法被我们静默解决的、引导你解决的、致命的错误时，程序将终止运行并将错误日志提示给你。</string>
+    <string name="era_label_logCopied">已复制日志，发送给开发者以获取帮助。</string>
+</resources>
