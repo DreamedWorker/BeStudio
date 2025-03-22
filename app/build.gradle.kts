@@ -3,6 +3,7 @@ plugins {
     alias(libs.plugins.kotlin.android)
     alias(libs.plugins.kotlin.compose)
     alias(libs.plugins.googleKsp)
+    alias(libs.plugins.googleHilt)
 }
 
 android {
@@ -66,4 +67,7 @@ dependencies {
     implementation(libs.androidx.compose.material.icons)
     implementation(libs.androidx.datastore.preferences)
     implementation(libs.androidx.browser)
+    implementation(libs.google.hilt)
+    ksp(libs.google.hilt.compiler)
+    implementation(libs.hilt.navigation)
 }

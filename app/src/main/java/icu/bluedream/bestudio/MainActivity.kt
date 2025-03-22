@@ -20,6 +20,7 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.core.animation.doOnEnd
 import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import com.ramcosta.composedestinations.DestinationsNavHost
+import dagger.hilt.android.AndroidEntryPoint
 import icu.bluedream.bestudio.backend.preference.keys.MainAct
 import icu.bluedream.bestudio.backend.preference.prefGetValue
 import icu.bluedream.bestudio.frontend.screen.NavGraphs
@@ -27,6 +28,7 @@ import icu.bluedream.bestudio.frontend.screen.WizardScreen
 import icu.bluedream.bestudio.frontend.theme.BeStudioTheme
 import kotlinx.coroutines.flow.first
 
+@AndroidEntryPoint
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         installSplashScreen().apply {
