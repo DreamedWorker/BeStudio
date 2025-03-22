@@ -4,6 +4,17 @@
     <string name="app_cancel">Cancel</string>
     <string name="app_confirm">Confirm</string>
     <string name="app_never_show">Never show again</string>
+    <!--  Wizard Screen  -->
+    <string name="wizard_title">Welcome to use BeStudio!</string>
+    <string name="wizard_subtitle">Develop add-ons locally.</string>
+    <string name="wizard_necessary_step">Necessary steps</string>
+    <string name="wizard_disagree">Disagree</string>
+    <string name="wizard_agree">Agree</string>
+    <string name="wizard_step_policy">Read User Service Agreement</string>
+    <string name="wizard_step_policy_exp">You need to agree to the agreement to continue using it.</string>
+    <string name="wizard_optional_steps">Optional steps</string>
+    <string name="wizard_step_shizuku">Install Shizuku</string>
+    <string name="wizard_step_shizuku_exp">Some operations that require permission depend on adb services.</string>
     <!--  Error Reporter Activity  -->
     <string name="era_title">Error Reporter</string>
     <string name="era_dialog_title">What is it?</string>

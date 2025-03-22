@@ -65,4 +65,5 @@ dependencies {
     ksp(libs.compose.destinations.ksp)
     implementation(libs.androidx.compose.material.icons)
     implementation(libs.androidx.datastore.preferences)
+    implementation(libs.androidx.browser)
 }
