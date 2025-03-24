@@ -19,4 +19,14 @@
     <string name="wizard_step_policy">阅读用户服务协议</string>
     <string name="wizard_optional_steps">可选步骤</string>
     <string name="wizard_step_shizuku">安装Shizuku</string>
+    <string name="home_search_placeolder">键入以搜索…</string>
+    <string name="new_proj_title">新建项目</string>
+    <string name="new_proj_what_is_it">配置清单</string>
+    <string name="new_proj_what_is_it_exp">你在本页所配置的内容将会写入到 manifest.json 文件中。</string>
+    <string name="new_proj_name">项目名称*</string>
+    <string name="new_proj_desc">项目介绍</string>
+    <string name="new_proj_sapi_title">SAPI 支持</string>
+    <string name="new_proj_sapi_exp2">是由官方维护的脚本开发接口，提供与数据驱动交互能力，用于附加包功能的开发。</string>
+    <string name="new_proj_sapi_use">启用 SAPI 支持</string>
+    <string name="new_proj_final_tip">官方已经移除了「假日创造者」功能，同时你需要基岩版1.20.50及以上以运行你的作品。</string>
 </resources>

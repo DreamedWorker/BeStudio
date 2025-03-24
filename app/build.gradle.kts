@@ -4,6 +4,7 @@ plugins {
     alias(libs.plugins.kotlin.compose)
     alias(libs.plugins.googleKsp)
     alias(libs.plugins.googleHilt)
+    alias(libs.plugins.serialization)
 }
 
 android {
@@ -70,4 +71,5 @@ dependencies {
     implementation(libs.google.hilt)
     ksp(libs.google.hilt.compiler)
     implementation(libs.hilt.navigation)
+    implementation(libs.kotlinx.serialization)
 }

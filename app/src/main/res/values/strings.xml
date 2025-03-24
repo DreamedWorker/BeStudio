@@ -20,4 +20,16 @@
     <string name="era_dialog_title">What is it?</string>
     <string name="era_dialog_msg">When the application is running, there is a fatal error that cannot be solved by us silently, prompts to guide you to solve, or fatal, the program will terminate the operation and prompt you the log of these errors.</string>
     <string name="era_label_logCopied">Copied! Send to developers for helps.</string>
+    <!--  Home Screen  -->
+    <string name="home_search_placeolder">Type to search…</string>
+    <string name="new_proj_title">New Project</string>
+    <string name="new_proj_what_is_it">Project manifest</string>
+    <string name="new_proj_what_is_it_exp">The content you configure on this page will be written into the manifest.json file.</string>
+    <string name="new_proj_name">Project name*</string>
+    <string name="new_proj_desc">Project description</string>
+    <string name="new_proj_sapi_title">SAPI support</string>
+    <string name="new_proj_sapi_exp1" translatable="false">Scripting API</string>
+    <string name="new_proj_sapi_exp2"> is an official maintenance script development interface, which provides add-on development solutions coordinated with data-driven based on javascript.</string>
+    <string name="new_proj_sapi_use">Enable SAPI support</string>
+    <string name="new_proj_final_tip">There is no support for Holiday Creator, and you should use MC1.20.50 and newer to run your works.</string>
 </resources>
